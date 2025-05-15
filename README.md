@@ -1,5 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Tech Stack:
+
+React Native for building the mobile app.
+React Navigation for screen navigation.
+Axios for API requests.
+React Native Image Picker for capturing images.
+Fakestore API for product data.
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
